@@ -22,3 +22,11 @@ Our goal is to develop an algorithm capable of solving a labyrinth in the least 
 
 - The Fight
 > Comparison of results obtained by quantum resolution and classical AI
+
+## Our Team
+- Thomas Descotte
+- Violaine Bec
+- Jean-Philippe Volkaert
+- Lucas Marquet
+
+[Qiskit Link](https://qiskithackathoneurope.bemyapp.com/#/projects/608091bfff00f400197faa1e)
