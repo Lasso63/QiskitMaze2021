@@ -5,6 +5,8 @@
 # Qiskit Hackathon Europe
 
 ## Project
+This repository was used during a hackathon around quantum computing organized in 2021 by Qiskit. Unfortunately we have not been selected for the next step, so we have not coded anything.
+
 Quantum algorithm that will be able to solve a maze and try to get better results than a classic AI.
 
 ## The Pitch
